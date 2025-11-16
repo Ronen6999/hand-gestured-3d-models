@@ -1,4 +1,4 @@
-# 3D Model Playground
+# Hand gestured controlled 3D Model
 
 Control 3D models using hand gestures and voice commands in real-time.
 
